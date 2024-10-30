@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: #333333;
+}
+.light{
+    background-color: white;
+    color: black;
+}
+#secret{display: block;}
+#light_off{display: none;}
